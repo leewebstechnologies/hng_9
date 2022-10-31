@@ -1,0 +1,123 @@
+#profile__img {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.avatar {
+  border-radius: 50%;
+}
+
+#link {
+  height: 40px;
+  width: 50%;
+  border-radius: 10px;
+  background-color: #eaecf0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 30px;
+  margin-top: 30px;
+}
+
+#twitter a {
+  text-decoration: none;
+  color: #000;
+}
+
+#slack {
+  text-decoration: none;
+  color: #000;
+}
+
+#btn__zuri {
+  height: 40px;
+  width: 50%;
+  border-radius: 10px;
+  background-color: #eaecf0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 30px;
+  color: #000;
+  text-decoration: none;
+  margin-top: -20px;
+}
+
+#books {
+  height: 40px;
+  width: 50%;
+  border-radius: 10px;
+  background-color: #eaecf0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 30px;
+  color: #000;
+  text-decoration: none;
+  margin-top: -20px;
+}
+
+#links {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#book__python {
+  height: 40px;
+  width: 50%;
+  border-radius: 10px;
+  background-color: #eaecf0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 30px;
+  color: #000;
+  text-decoration: none;
+  margin-top: -20px;
+}
+
+#pitch {
+  height: 40px;
+  width: 50%;
+  border-radius: 10px;
+  background-color: #eaecf0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 30px;
+  color: #000;
+  text-decoration: none;
+  margin-top: -20px;
+}
+
+#design {
+  height: 40px;
+  width: 50%;
+  border-radius: 10px;
+  background-color: #eaecf0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 30px;
+  color: #000;
+  text-decoration: none;
+  margin-top: -20px;
+}
+
+#slack img {
+  width: 30px;
+  display: flex;
+}
+
