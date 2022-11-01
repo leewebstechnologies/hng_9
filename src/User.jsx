@@ -44,7 +44,7 @@ const User = () => {
       </section>
       <section id="links">
         <a href="https://background.zuri.team" id="pitch">
-          <h3>Background Check For Coders</h3>
+          <h4>Background Check For Coders</h4>
         </a>
       </section>
       <section id="links">
