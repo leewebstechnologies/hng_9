@@ -12,6 +12,7 @@ const User = () => {
       <section id="profile__img">
         <img
           className="avatar"
+          id="profile__img"
           src={ali.imageUrl}
           alt={"Photo of " + ali.name}
           style={{
@@ -21,7 +22,7 @@ const User = () => {
         />
         <h1>{ali.name}</h1>
         <div id="link">
-          <h3 id="twitter">Ali</h3>
+          <h3 id="twitter">Twitter Link</h3>
         </div>
       </section>
       <section id="links">

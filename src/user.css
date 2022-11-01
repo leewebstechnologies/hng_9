@@ -4,6 +4,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  border-radius: 50%;
 }
 
 .avatar {
@@ -48,6 +49,11 @@
   margin-top: -20px;
 }
 
+@media only screen and (max-device-width: 480px) {
+  #btn__zuri {
+    width: 80%;
+  }
+}
 #books {
   height: 40px;
   width: 50%;
@@ -63,6 +69,12 @@
   margin-top: -20px;
 }
 
+@media only screen and (max-device-width: 480px) {
+  #books {
+    width: 80%;
+  }
+}
+
 #links {
   margin-top: 50px;
   display: flex;
@@ -74,6 +86,18 @@
 @media only screen and (max-device-width: 480px) {
   #links {
     width: 100%;
+  }
+}
+
+@media only screen and (max-device-width: 480px) {
+  #link {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-device-width: 480px) {
+  #link {
+    width: 80%;
   }
 }
 
@@ -92,6 +116,12 @@
   margin-top: -20px;
 }
 
+@media only screen and (max-device-width: 480px) {
+  #book__python {
+    width: 80%;
+  }
+}
+
 #pitch {
   height: 40px;
   width: 50%;
@@ -107,6 +137,12 @@
   margin-top: -20px;
 }
 
+@media only screen and (max-device-width: 480px) {
+  #pitch {
+    width: 80%;
+  }
+}
+
 #design {
   height: 40px;
   width: 50%;
@@ -120,6 +156,12 @@
   color: #000;
   text-decoration: none;
   margin-top: -20px;
+}
+
+@media only screen and (max-device-width: 480px) {
+  #design {
+    width: 80%;
+  }
 }
 
 #social-icons {
