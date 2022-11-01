@@ -21,17 +21,17 @@ const User = () => {
         />
         <h1>{ali.name}</h1>
         <div id="link">
-          <h2 id="twitter">Ali</h2>
+          <h3 id="twitter">Ali</h3>
         </div>
       </section>
       <section id="links">
         <a href="https://training.zuri.team" id="btn__zuri">
-          <h2>Zuri Team</h2>
+          <h3>Zuri Team</h3>
         </a>
       </section>
       <section id="links">
         <a href="http://books.zuri.team" id="books">
-          <h2>Zuri Books</h2>
+          <h3>Zuri Books</h3>
         </a>
       </section>
       <section id="links">
@@ -39,17 +39,17 @@ const User = () => {
           href="https://books.zuri.team/python-for-beginners?ref_id=leewebs"
           id="book__python"
         >
-          <h2>Python Books</h2>
+          <h3>Python Books</h3>
         </a>
       </section>
       <section id="links">
         <a href="https://background.zuri.team" id="pitch">
-          <h2>Background Check For Coders</h2>
+          <h3>Background Check For Coders</h3>
         </a>
       </section>
       <section id="links">
         <a href="https://books.zuri.team/design-rules" id="design">
-          <h2>Design Books</h2>
+          <h3>Design Books</h3>
         </a>
       </section>
       <section id="footer">
