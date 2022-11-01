@@ -99,8 +99,11 @@
   color: #000;
   text-decoration: none;
   margin-top: -20px;
+}
 
-  @media only screen and (max-device-width: 480px) {
+@media only screen and (max-device-width: 480px) {
+  #pitch {
+    width: 50%;
   }
 }
 
