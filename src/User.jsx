@@ -1,4 +1,5 @@
 import "./user.css";
+// import GitHubIcon from '@mui/icons-material/GitHub';
 
 const User = () => {
   const ali = {
@@ -51,13 +52,18 @@ const User = () => {
           <h2>Design Books</h2>
         </a>
       </section>
-      <section id="slack">
-        <a href="">
-        <img src="./images/slack_logo.png" alt=""  />
-        <img src="./images/github_logo.png" alt="" />
-        </a>
+      <section id="footer">
+        <div id="page-footer">
+          <div id="social-icons">
+            <a href="https://app.slack.com/client/T042F7V19Q8/C041JU70S5U">
+              <img src="./images/slack_logo.png" alt="slack icon" id="slack" />
+            </a>
+            <a href="https://github.com/leewebstechnologies">
+              <img src="./images/github_logo.png" id="github" alt="github" />
+            </a>
+          </div>
+        </div>
       </section>
-     
     </>
   );
 };
